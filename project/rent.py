@@ -26,8 +26,6 @@ Created on Tue Feb  2 22:13:16 2021
 #   requestVehicle()
 #   returnVehicle()
 
-# yukaridakiler rentCarProject.py dosyasinda olucak.
-# gerceklestirilmesi de main.py dosyasinda.
 #%%
 import datetime
 
